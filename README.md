@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/terranex/docker-django.png?label=ready&title=Ready)](https://waffle.io/terranex/docker-django)
 docker-django
 =============
 
